@@ -1,6 +1,0 @@
-# pack-refs with: peeled fully-peeled sorted 
-ba73a7383c8886af0b9a16809661e3fdac44cbdf refs/heads/feature/add-css
-577ed909320d7e8fb8694c1ce64fb59e853dd0e0 refs/heads/feature/add-html
-fe56a2aeb40125536509a1c5f35309467305c2b9 refs/heads/feature/add-js
-ddf37e1cffdf0b366598bded62cb7e7b7f58118a refs/heads/feature/starter-code
-e825b4002648ee360bfa4eeb4f0d3a6e8eafa339 refs/heads/main
